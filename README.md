@@ -1,4 +1,4 @@
-### Hi there 👋
+### 01001000 01001001 00100000 01010100 01001000 01000101 01010010 01000101👋
 
 <!--
 **Erenyeager31/Erenyeager31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
