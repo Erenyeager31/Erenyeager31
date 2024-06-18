@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Dishant<br><br>- 🔭 I’m working as MERN developer <br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I play games</p>
+<p align="left">I'm Dishant<br><br>- 🔭 I’m working as MERN developer <br>- 📚 I'm currently learning Machine Learning<br></p>
 
 ###
 
